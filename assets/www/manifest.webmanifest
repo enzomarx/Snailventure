@@ -1,0 +1,84 @@
+{
+  "name": "Snailventure",
+  "short_name": "Snailventure",
+  "id": "com.snailventure.game",
+  "description": "An arcade game, make your highest score being the snail.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "20x20"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "29x29"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "36x36"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "40x40"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "48x48"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "50x50"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "57x57"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "58x58"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "60x60"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "72x72"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "76x76"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "80x80"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "87x87"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "96x96"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "100x100"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "114x114"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "120x120"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "144x144"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "152x152"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "167x167"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "180x180"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "192x192"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "512x512"
+      },{
+        "src": "7b142a014fa996645dcc770848dd18e02389c11348d7ee0cd238ddc76a0adbec-Picsart_23-11-01_13-24-26-225.png",
+        "sizes": "1024x1024"
+      }]
+}
